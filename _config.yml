@@ -11,7 +11,7 @@ github_repo: "https://github.com/Zhaxy0423/Zhaxy0423.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Wish that for us, everything is fine from now on!"
 sidebar-avatar: /img/avatar-zha.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

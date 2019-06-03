@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: bbprincekin0423@gmail.com
 description: "You make me to be a better man."
 keyword: "Zha, Zha Blog, 渣小宇的博客, 渣小宇, bbprincekin, iOS, Apple, iPhone"
-url: "http://Zha-Blog.github.io"          # your host, for absolute URL
+url: "http://Zhaxy0423.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Zhaxy0423/Zha-Blog.github.io.git" # you code repository
+github_repo: "https://github.com/Zhaxy0423/Zhaxy0423.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

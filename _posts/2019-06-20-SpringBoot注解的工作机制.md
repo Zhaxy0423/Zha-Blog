@@ -88,12 +88,14 @@ SpringBoot的两种配置文件
 bootstrap (.yml 或者 .properties)
 application (.yml 或者 .properties)
 ```
+
 ### 1.bootstrap/application的区别
 >SpringCloud构建于SpringBoot之上，在SpringBoot中有两种上下文，一种是bootstrap, 另外一种是application, bootstrap 是应用程序的父ApplicationContext，也就是说bootstrap加载优先于applicaton。
 
 >bootstrap主要用于从额外的资源来加载配置信息，还可以在本地外部配置文件中解密属性。application配置文件这个容易理解，主要用于SpringBoot 项目的自动化配置。这两个上下文共用一个环境，它是任何Spring应用程序的外部属性的来源。
 
 >bootstrap里面的属性会优先加载，它们默认也不能被本地相同配置覆盖。
+
 ### 2.bootstrap的应用场景
 >使用 SpringCloud Config配置中心时，这时需要在 bootstrap配置文件中添加连接到配置中心的配置属性来加载外部配置中心的配置信息
 

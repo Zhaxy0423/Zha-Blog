@@ -28,6 +28,7 @@ public String toString() {
 （2）Annotation是一种应用于类、方法、参数、变量、构造器及包声明中的特殊修饰符。它是一种由JSR-175标准选择用来描述元数据的一种工具。
 ### 2.引入注解的原因：
 >弱耦合的XML配置在某些情况下代码和配置是完全分离的，维护性较差。
+
 ### 3.Annotation：
 ```java
 @Documented - 注解是否将包含在JavaDoc中
